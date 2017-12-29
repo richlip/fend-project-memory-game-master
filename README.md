@@ -2,19 +2,11 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+* [Introduction](#introduction)
+* [Todos](#todos)
 
-## Instructions
+## Introduction
+This is the project "memory game" for the fend. The initial commit is thes original code, then my code followed.
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
-
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+## Todos
+This is the main part of my project, one more thing will follow, as you can read the code in the app.js, there ar two more variables (as a comment). What i will do in the next weeks are a prompt or buttons, where you can choose your own deck, like a nerd deck, a currency deck or a payment deck.
